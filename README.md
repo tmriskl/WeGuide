@@ -1,2 +1,2 @@
 # WeGuide
-An app to guide peaple how to use their smartphone
+An app that has answers common questions about smartphones in multiple languages.
