@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeGuide</string>
+    <string name="title_activity_questions">QuestionsActivity</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+</resources>
